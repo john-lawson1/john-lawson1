@@ -13,12 +13,19 @@ current_job: Freelance Software Engineer
 fields_of_interests: Software Engineering
 technical_background: HyperionDev Software Engineering Fundamentals Bootcamp
 currently_learning: ["Python, Django, SQL, HTML, CSS and Bootstrap"]
-hobbies: ["I spend my free time running, renovating homes, and pursuing my passion for software engineering."]
-2024 Goals:
+
+2024 goals:
   [
-    "complete all the portfolio projects from my Software Engineering Bootcamp",
-    "learn at least 3 new Technologies",
-    "complete my first freelance Software Engineering role"
+    "Complete all the portfolio projects from my Software Engineering Bootcamp",
+    "Learn at least 3 new technologies",
+    "Complete my first freelance Software Engineering role"
+  ]
+
+hobbies:
+  [
+    "Running",
+    "Renovating homes",
+    "Pursuing my passion for software engineering."
   ]
 ```
   
